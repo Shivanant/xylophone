@@ -1,16 +1,5 @@
 # xylophone
 
-A new Flutter project.
+<img width="327" alt="image" src="https://github.com/Shivanant/xylophone/assets/87909132/35a60b2a-6a6d-407e-b8a3-cbea8ead7699">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Use your creativity to make musical notes
